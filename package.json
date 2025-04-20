@@ -65,6 +65,7 @@
     "@remix-pwa/sw": "^2.1.12",
     "@remix-run/css-bundle": "^2.1.0",
     "@remix-run/node": "^2.1.0",
+    "@remix-run/netlify": "^x.x.x",
     "@remix-run/react": "^2.1.0",
     "@remix-run/router": "^1.10.0",
     "@remix-run/server-runtime": "^2.1.0",
