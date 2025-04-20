@@ -7,6 +7,9 @@ module.exports = {
   //
   // Remix Settings
   //
+	serverBuildTarget: "netlify",
+  server: "./server.js", // or "server.ts" if you're using TypeScript
+  ignoredRouteFiles: ["**/.*"],
 	// appDirectory: "app",
   // assetsBuildDirectory: "public/build",
   browserNodeBuiltinsPolyfill: { modules: { url: true } },
